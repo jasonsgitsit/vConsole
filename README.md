@@ -26,7 +26,7 @@ For details, please see the screenshots below.
 
 ## Release Notes
 
-Latest version: [![npm version](https://img.shields.io/npm/v/vconsole/latest.svg)](https://www.npmjs.com/package/vconsole)
+Latest version: [![npm version](https://img.shields.io/npm/v/vconsolae/latest.svg)](https://www.npmjs.com/package/vconsole)
 
 Detailed release notes for each version are available on [Changelog](./CHANGELOG.md).
 
